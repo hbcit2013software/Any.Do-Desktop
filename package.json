@@ -1,0 +1,23 @@
+{
+  "name": "any.do-desktop",
+  "version": "0.1.0",
+  "description": "Use Any.Do on the desktop!",
+  "main": "init.js",
+  "scripts": {
+    "test": "electron init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhiljha/Any.Do-Desktop.git"
+  },
+  "keywords": [
+    "any.do",
+    "desktop"
+  ],
+  "author": "Nikhil Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikhiljha/Any.Do-Desktop/issues"
+  },
+  "homepage": "https://github.com/nikhiljha/Any.Do-Desktop#readme"
+}
